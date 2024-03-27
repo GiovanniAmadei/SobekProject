@@ -18,6 +18,10 @@
 		{
 			"Name": "IconBaker",
 			"Enabled": true
+		},
+		{
+			"Name": "OpenImageDenoise",
+			"Enabled": false
 		}
 	]
 }
